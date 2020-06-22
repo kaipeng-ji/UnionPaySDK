@@ -1,0 +1,16 @@
+PODS:
+  - UnionPaySDK (0.1.0)
+
+DEPENDENCIES:
+  - UnionPaySDK (from `../`)
+
+EXTERNAL SOURCES:
+  UnionPaySDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UnionPaySDK: ad0e4e5f8e20218fd57590c72d03c95e2071b09c
+
+PODFILE CHECKSUM: c3935736ace788333d5a42d3f95bb886d076201d
+
+COCOAPODS: 1.9.3

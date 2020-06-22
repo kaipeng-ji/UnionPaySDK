@@ -1,0 +1,22 @@
+{
+  "name": "UnionPaySDK",
+  "version": "0.1.0",
+  "summary": "A short description of UnionPaySDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kaipeng-ji/UnionPaySDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kaipeng-ji": "18346072846@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kaipeng-ji/UnionPaySDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UnionPaySDK/Classes/**/*"
+}

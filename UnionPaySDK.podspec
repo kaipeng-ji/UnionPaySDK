@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UnionPaySDK'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of UnionPaySDK.'
+  s.version          = '2.2.0'
+  s.summary          = '集成最近版本2.2.0银联的SDK'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
